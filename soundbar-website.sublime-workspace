@@ -1,0 +1,1193 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"signin",
+				"signInButtonClicked"
+			],
+			[
+				"error",
+				"errorMsg"
+			],
+			[
+				"link",
+				"link-muted"
+			],
+			[
+				"pricing",
+				"pricing-page"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"getPa",
+				"getPaymentNew"
+			],
+			[
+				"getPay",
+				"getPaymentUpdate"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"list-styl",
+				"list-style-type"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"li",
+				"li	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2336,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 5647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/normalize.css",
+			"settings":
+			{
+				"buffer_size": 7708,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"nide",
+				"Preferences: Settings - Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"Paca",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pma/Sites/soundbar-website",
+		"/Users/pma/Sites/soundbar-website/css"
+	],
+	"file_history":
+	[
+		"/Users/pma/screenhero-website/views/generic/footer.htm",
+		"/Users/pma/screenhero-website/views/generic/baseend.htm",
+		"/Users/pma/screenhero-website/views/login/footer.htm",
+		"/Users/pma/screenhero-website/old/css/absolute-footer.css",
+		"/Users/pma/screenhero-website/views/jointeam/footer.htm",
+		"/Users/pma/screenhero-website/views/account/footer.htm",
+		"/Users/pma/screenhero-website/views/features.htm",
+		"/Users/pma/screenhero-website/views/invoice/footer.htm",
+		"/Users/pma/screenhero-website/views/github-student-developer-pack/footer.htm",
+		"/Users/pma/screenhero-website/pricing.html",
+		"/Users/pma/screenhero-website/views/pricing.htm",
+		"/Users/pma/screenhero-website/reset-password.html",
+		"/Users/pma/screenhero-website/compile/autocompile.rb",
+		"/Users/pma/screenhero-website/views/index.htm",
+		"/Users/pma/screenhero-website/views/jointeam/Invitation.htm",
+		"/Users/pma/screenhero-website/views/login/Login.htm",
+		"/Users/pma/screenhero-website/js/login/Login.js",
+		"/Users/pma/screenhero-website/login/index.html",
+		"/Users/pma/screenhero-website/views/invoice/Invoice.htm",
+		"/Users/pma/screenhero-website/views/github-student-developer-pack/github-student-developer-pack.htm",
+		"/Users/pma/screenhero-website/svg/logo-github.svg",
+		"/Users/pma/screenhero-website/js/github-student-developer-pack/github-student-developer-pack.js",
+		"/Users/pma/screenhero-website/css/include/github-student-developer-pack.less",
+		"/Users/pma/screenhero-website/templates/github-student-developer-pack.haml",
+		"/Users/pma/screenhero-website/github-student-developer-pack/github-student-developer-pack.html",
+		"/Users/pma/screenhero-website/GHSDP/GHSDP.html",
+		"/Users/pma/screenhero-website/views/generic/header.htm",
+		"/Users/pma/screenhero-website/compile/hamlify.rb",
+		"/Users/pma/screenhero-website/views/account/User.htm",
+		"/Users/pma/screenhero-website/js/account/User.js",
+		"/Users/pma/screenhero-website/views/404.htm",
+		"/Users/pma/screenhero-website/js/ractive/ractive-0.3.7.min.js",
+		"/Users/pma/screenhero-website/404.html",
+		"/Users/pma/screenhero-website/views/account/index.htm",
+		"/Users/pma/screenhero-website/views/account/basestart.htm",
+		"/Users/pma/screenhero-website/templates/account.haml",
+		"/Users/pma/screenhero-website/views/frontpage/basestart.htm",
+		"/Users/pma/screenhero-website/views/frontpage/header.htm",
+		"/Users/pma/screenhero-website/js/account/Billing.js",
+		"/Users/pma/screenhero-website/views/github-student-developer-pack/index.htm",
+		"/Users/pma/screenhero-website/views/invoice/index.htm",
+		"/Users/pma/screenhero-website/jointeam/index.html",
+		"/Users/pma/screenhero-website/invoice/index.html",
+		"/Users/pma/screenhero-website/github-student-developer-pack/index.html",
+		"/Users/pma/screenhero-website/GHSDP/index.html",
+		"/Users/pma/screenhero-website/force-logout/index.html",
+		"/Users/pma/screenhero-website/api-doc/index.html",
+		"/Users/pma/screenhero-website/account/index.html",
+		"/Users/pma/screenhero-website/index.html",
+		"/Users/pma/screenhero-website/views/account/header.htm",
+		"/Users/pma/screenhero-website/views/account/Billing.htm",
+		"/Users/pma/screenhero-website/views/main.htm",
+		"/Users/pma/screenhero-website/js/main.js",
+		"/Users/pma/screenhero-website/main.html",
+		"/Users/pma/screenhero-website/templates/frontpage.haml",
+		"/Users/pma/screenhero-website/views/account/baseend.htm",
+		"/Users/pma/screenhero-website/views/generic/basestart.htm",
+		"/Users/pma/screenhero-website/js/config.production.js",
+		"/Users/pma/screenhero-website/compile/compile.sh",
+		"/Users/pma/screenhero-website/views/github-student-developer-pack/header.htm",
+		"/Users/pma/screenhero-website/views/invoice/header.htm",
+		"/Users/pma/screenhero-website/views/jointeam/header.htm",
+		"/Users/pma/screenhero-website/views/login/header.htm",
+		"/Users/pma/screenhero-website/views/github-student-developer-pack/basestart.htm",
+		"/Users/pma/screenhero-website/Screenhero.alfredworkflow",
+		"/Users/pma/screenhero-website/views/github-student-developer-pack/baseend.htm",
+		"/Users/pma/screenhero-website/views/invoice/baseend.htm",
+		"/Users/pma/screenhero-website/views/invoice/basestart.htm",
+		"/Users/pma/screenhero-website/views/jointeam/baseend.htm",
+		"/Users/pma/screenhero-website/views/jointeam/basestart.htm",
+		"/Users/pma/screenhero-website/views/login/baseend.htm",
+		"/Users/pma/screenhero-website/views/login/basestart.htm",
+		"/Users/pma/screenhero-website/api-doc/lib/backbone-min.js",
+		"/Users/pma/screenhero-website/old/css/bootstrap-responsive.css",
+		"/Users/pma/screenhero-website/views/account/Download.htm",
+		"/Users/pma/screenhero-website/css/include/account.less",
+		"/Users/pma/screenhero-website/.gitignore",
+		"/Users/pma/screenhero-website/about.html",
+		"/Users/pma/screenhero-website/js/index.sh.min.js",
+		"/Users/pma/screenhero-website/old/js/download.js",
+		"/Users/pma/screenhero-website/js/account/Download.js",
+		"/Users/pma/screenhero-website/views/download.htm",
+		"/Users/pma/screenhero-website/js/download.js",
+		"/Users/pma/screenhero-website/js/index.js",
+		"/Users/pma/screenhero-website/css/include/billing.less",
+		"/Users/pma/screenhero-website/old/css/bootstrap-responsive.min.css",
+		"/Users/pma/screenhero-website/old/css/pushBodyWhenShowFrame.css",
+		"/Users/pma/screenhero-website/img/blog/ic-facebook.svg",
+		"/Users/pma/screenhero-website/old/img/blog/ic-facebook.svg",
+		"/Users/pma/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pma/screenhero-website/js/pricing.js",
+		"/Users/pma/screenhero-website/js/download.sh.min.js",
+		"/Users/pma/screenhero-website/download.html",
+		"/Users/pma/screenhero-website/templates/login.haml",
+		"/Users/pma/screenhero-website/account/User.html",
+		"/Users/pma/screenhero-website/fonts/glyphicons-halflings-regular.svg",
+		"/Users/pma/screenhero-website/verify-email.html",
+		"/Users/pma/screenhero-website/copyright.html",
+		"/Users/pma/screenhero-website/old/js/index.js",
+		"/Users/pma/screenhero-website/js/ractive/ractive-events-hover.js",
+		"/Users/pma/screenhero-website/old/fancybox-source/helpers/jquery.fancybox-media.js",
+		"/Users/pma/screenhero-website/account/Billing.html",
+		"/Users/pma/screenhero-website/old/js/pricing.js",
+		"/Users/pma/screenhero-website/js/ResourceManager.js",
+		"/Users/pma/screenhero-website/js/config.js",
+		"/Users/pma/screenhero-website/js/config.development.js",
+		"/Users/pma/screenhero-website/js/config.sh.min.js",
+		"/Users/pma/screenhero-website/compile/convert_svg.sh",
+		"/Users/pma/screenhero-website/css/invoice/invoice.less",
+		"/Users/pma/screenhero-website/js/reset-password.js",
+		"/Users/pma/screenhero-website/compile/minify_html.sh",
+		"/Users/pma/screenhero-website/views/about.htm",
+		"/Users/pma/screenhero-website/invoice/Invoice.html",
+		"/Users/pma/screenhero-website/jointeam/Invitation.html",
+		"/Users/pma/screenhero-website/pricing-new.html",
+		"/Users/pma/screenhero-website/svg/ic-admin-billing.svg",
+		"/Users/pma/screenhero-website/svg/ic-anything-cobrowse.svg",
+		"/Users/pma/screenhero-website/pricing-team-tiers.html",
+		"/Users/pma/screenhero-website/pricing-team-plans.html",
+		"/Users/pma/screenhero-website/pricing-team.html",
+		"/Users/pma/screenhero-website/pricing-plan.html",
+		"/Users/pma/screenhero-website/privacy.html",
+		"/Users/pma/screenhero-website/svg/ic-admin-delete.svg",
+		"/Users/pma/screenhero-website/features.html",
+		"/Users/pma/screenhero-website/svg/ic-anything-documents.svg",
+		"/Users/pma/screenhero-website/svg/ic-anything-anyapp.svg",
+		"/Users/pma/screenhero-website/old/css/signin.css",
+		"/Users/pma/screenhero-website/sitemap.xml"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"*.htm",
+			"",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"image",
+			"2014",
+			"slack",
+			"read",
+			"read more",
+			"font-medium",
+			"Screenhero is currently free for all users",
+			"navbar",
+			"a ",
+			".active",
+			"center",
+			"index",
+			"mt-40",
+			"btn",
+			"download",
+			"payment_interval",
+			"onYearlyClicked",
+			"payment_interval",
+			"yearly",
+			"plans",
+			"yearly",
+			"annual",
+			"loading",
+			"done",
+			"loading",
+			"payment_interval",
+			"yearly",
+			"115px",
+			"font-small",
+			"payment_interval",
+			"year",
+			"currentInterval",
+			"yearly",
+			"payment_interval",
+			"default",
+			"when paid yearly",
+			"billed annuallypa",
+			"billed annually",
+			"paid annually",
+			"monthly",
+			"max-width: 1200px",
+			".plan-price",
+			".plan .plan-price .btn",
+			"pricing",
+			"monthly",
+			"uiState != uiStates.cancelPending",
+			"cancelPending",
+			"input",
+			"modal",
+			"input",
+			"modal",
+			"\"0\"",
+			"cancel subsc",
+			"customer.subscription.plan.name == plans[payment_interval][i].name",
+			"cancel subscri",
+			"cancel",
+			"plan ",
+			"plan",
+			"coupon",
+			"selectedPlan",
+			"coupon",
+			"payment_in",
+			"payment_interval",
+			"production",
+			"    \n",
+			"customer.subscription",
+			"payment_interval",
+			"interval",
+			"monthly",
+			"yearly",
+			"key",
+			"obser",
+			"signinemail",
+			"isemailva",
+			"firstEmailEntryComplete",
+			"errorMsg",
+			"width",
+			"100",
+			".invoice-history",
+			"by paying",
+			"green",
+			"pricing-plans",
+			"pricing-page",
+			"current",
+			"coupon =",
+			"label",
+			"muted",
+			"btn-default",
+			"btn-",
+			"pricing",
+			"canceled",
+			"upgrade",
+			"canceled",
+			"start ",
+			"team",
+			"Guest",
+			"canceled",
+			"Guest",
+			"name",
+			"plan.name",
+			"customer.subscription.plan.name",
+			"@error",
+			"coupon ",
+			"coupon",
+			"coupon ",
+			"coupon code",
+			"coupon",
+			"error",
+			"word-s",
+			"faq",
+			"plan-price",
+			"start free",
+			"14",
+			"coupon",
+			"showingCouponCode",
+			"have",
+			"selectedPlan.metadata.seats",
+			"question",
+			"team",
+			"team ma",
+			"seats",
+			"bill ",
+			"button",
+			"role",
+			"submit",
+			"onSubmitClicked",
+			"enter",
+			"server"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&thinsp;&mdash;&thinsp;",
+			"160",
+			"160\n",
+			"264\n",
+			"166",
+			"quote-name",
+			"quote-box",
+			"md"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1034,
+								1034
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 181.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/normalize.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								797,
+								799
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "soundbar-website.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"foo",
+				"views/generic/footer.htm"
+			],
+			[
+				"index",
+				"views/index.htm"
+			],
+			[
+				"basee",
+				"views/generic/baseend.htm"
+			],
+			[
+				"base",
+				"views/account/basestart.htm"
+			],
+			[
+				"footer",
+				"views/login/footer.htm"
+			],
+			[
+				"pricing",
+				"views/pricing.htm"
+			],
+			[
+				"login",
+				"views/login/Login.htm"
+			],
+			[
+				"inv",
+				"views/jointeam/Invitation.htm"
+			],
+			[
+				"github",
+				"views/github-student-developer-pack/github-student-developer-pack.htm"
+			],
+			[
+				"heade",
+				"views/generic/header.htm"
+			],
+			[
+				"use",
+				"views/account/User.htm"
+			],
+			[
+				"404",
+				"views/404.htm"
+			],
+			[
+				"account",
+				"templates/account.haml"
+			],
+			[
+				"index.htm",
+				"views/account/index.htm"
+			],
+			[
+				"bill",
+				"views/account/Billing.htm"
+			],
+			[
+				"header",
+				"views/account/header.htm"
+			],
+			[
+				"acc",
+				"css/include/account.less"
+			],
+			[
+				"main",
+				"views/main.htm"
+			],
+			[
+				"front",
+				"templates/frontpage.haml"
+			],
+			[
+				"ham",
+				"compile/hamlify.rb"
+			],
+			[
+				"basestar",
+				"views/frontpage/basestart.htm"
+			],
+			[
+				"fea",
+				"views/features.htm"
+			],
+			[
+				"basestart",
+				"views/github-student-developer-pack/basestart.htm"
+			],
+			[
+				"foot",
+				"views/account/footer.htm"
+			],
+			[
+				"foote",
+				"views/account/footer.htm"
+			],
+			[
+				"feat",
+				"views/features.htm"
+			],
+			[
+				"download",
+				"views/account/Download.htm"
+			],
+			[
+				"",
+				"css/style.less"
+			],
+			[
+				"inde",
+				"views/index.htm"
+			],
+			[
+				"billing",
+				"js/account/Billing.js"
+			],
+			[
+				"user",
+				"js/account/User.js"
+			],
+			[
+				"pricing.js",
+				"js/pricing.js"
+			],
+			[
+				"billn",
+				"js/account/Billing.js"
+			],
+			[
+				"billi",
+				"views/account/Billing.htm"
+			],
+			[
+				"sty",
+				"css/style.less"
+			],
+			[
+				"bili",
+				"views/account/Billing.htm"
+			],
+			[
+				"con",
+				"js/config.production.js"
+			],
+			[
+				"confi",
+				"js/config.js"
+			],
+			[
+				"compile",
+				"compile/compile.sh"
+			],
+			[
+				"co",
+				"js/config.production.js"
+			],
+			[
+				"resou",
+				"js/ResourceManager.js"
+			],
+			[
+				"bil",
+				"js/account/Billing.js"
+			],
+			[
+				"login.js",
+				"js/login/Login.js"
+			],
+			[
+				"innvoice",
+				"css/invoice/invoice.less"
+			],
+			[
+				"pri",
+				"views/pricing.htm"
+			],
+			[
+				"prici",
+				"pricing.html"
+			],
+			[
+				"about",
+				"views/about.htm"
+			],
+			[
+				"billing.js",
+				"js/account/Billing.js"
+			],
+			[
+				"featu",
+				"views/features.htm"
+			],
+			[
+				"down",
+				"views/download.htm"
+			],
+			[
+				"bi",
+				"js/account/Billing.js"
+			],
+			[
+				"jobs",
+				"views/jobs.htm"
+			],
+			[
+				"rese",
+				"js/reset-password.js"
+			],
+			[
+				"g",
+				"js/GHSDP/GHSDP.js"
+			],
+			[
+				"pa",
+				"reset-password.html"
+			],
+			[
+				"hamlif",
+				"compile/hamlify.rb"
+			],
+			[
+				"st",
+				"css/style.less"
+			],
+			[
+				"admin",
+				"css/include/admin.less"
+			],
+			[
+				"hamli",
+				"compile/hamlify.rb"
+			],
+			[
+				"auto",
+				"compile/autocompile.rb"
+			],
+			[
+				"re",
+				"js/ResourceManager.js"
+			],
+			[
+				"a",
+				"compile/autocompile.rb"
+			],
+			[
+				"aut",
+				"compile/autocompile.rb"
+			],
+			[
+				"logi",
+				"views/login/Login.htm"
+			],
+			[
+				"billing.less",
+				"css/include/billing.less"
+			],
+			[
+				"less",
+				"compile/lessify.sh"
+			],
+			[
+				"au",
+				"compile/autocompile.rb"
+			],
+			[
+				"admin.le",
+				"css/include/admin.less"
+			],
+			[
+				"invo",
+				"views/invoice/Invoice.htm"
+			],
+			[
+				"login.htm",
+				"views/login/Login.htm"
+			],
+			[
+				"invoice.js",
+				"js/invoice/Invoice.js"
+			],
+			[
+				"billing.j",
+				"js/admin/Billing.js"
+			],
+			[
+				"profile.js",
+				"js/admin/Profile.js"
+			],
+			[
+				"user.js",
+				"js/admin/User.js"
+			],
+			[
+				"team.h",
+				"views/admin/Team.htm"
+			],
+			[
+				"resour",
+				"js/ResourceManager.js"
+			],
+			[
+				"index.",
+				"views/admin/index.htm"
+			],
+			[
+				"profile.hm",
+				"views/admin/Profile.htm"
+			],
+			[
+				"sh-spi",
+				"svg/sh-spinner.svg"
+			],
+			[
+				"mess",
+				"views/admin/Messaging.htm"
+			],
+			[
+				"messa",
+				"js/admin/Messaging.js"
+			],
+			[
+				"resource",
+				"js/ResourceManager.js"
+			],
+			[
+				"download.js",
+				"js/download.js"
+			],
+			[
+				"config",
+				"js/Config.local.js"
+			],
+			[
+				"loginview.js",
+				"LoginView/LoginView.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/soundbar/Soundbar/HTML/soundbar.sublime-project"
+			],
+			[
+				"soundbar-website",
+				"~/Sites/soundbar-website/soundbar-website.sublime-project"
+			],
+			[
+				"sound",
+				"~/Sites/soundbar.sublime-workspace"
+			],
+			[
+				"inde",
+				"~/Sites/soundbar.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
