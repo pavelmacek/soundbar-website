@@ -4,24 +4,40 @@
 		"selected_items":
 		[
 			[
-				"margin",
+				"mar",
 				"margin"
 			],
 			[
 				"tex",
-				"text-decoration"
+				"text-align"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
 			],
 			[
 				"text",
-				"text-align"
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin"
 			],
 			[
 				"list",
 				"list-style-type"
-			],
-			[
-				"padding",
-				"padding-top"
 			],
 			[
 				"paddin",
@@ -30,10 +46,6 @@
 			[
 				"margin-",
 				"margin-top"
-			],
-			[
-				"font-",
-				"font-size"
 			],
 			[
 				"signin",
@@ -80,10 +92,6 @@
 				"border-radius"
 			],
 			[
-				"border",
-				"border-color"
-			],
-			[
 				"borde",
 				"border-color"
 			],
@@ -128,10 +136,6 @@
 				"background-color"
 			],
 			[
-				"mar",
-				"margin-bottom"
-			],
-			[
 				"backg",
 				"background-color"
 			],
@@ -147,23 +151,26 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2336,
+				"buffer_size": 12604,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "css/main.css",
+			"contents": "$(window).load(function() {\n  $(\"body\").removeClass(\"preload\");\n});",
+			"file": "js/main.js",
+			"file_size": 0,
+			"file_write_time": 130934171160000000,
 			"settings":
 			{
-				"buffer_size": 5647,
+				"buffer_size": 67,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "css/normalize.css",
+			"file": "css/main.less",
 			"settings":
 			{
-				"buffer_size": 7708,
+				"buffer_size": 6412,
 				"line_ending": "Unix"
 			}
 		}
@@ -175,10 +182,26 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 400.0,
-		"last_filter": "",
+		"height": 237.0,
+		"last_filter": "indent",
 		"selected_items":
 		[
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"autoprefi",
+				"Autoprefix CSS"
+			],
 			[
 				"inde",
 				"Indentation: Reindent Lines"
@@ -256,7 +279,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 583.0
+		"width": 457.0
 	},
 	"console":
 	{
@@ -278,7 +301,8 @@
 	"expanded_folders":
 	[
 		"/Users/pma/Sites/soundbar-website",
-		"/Users/pma/Sites/soundbar-website/css"
+		"/Users/pma/Sites/soundbar-website/css",
+		"/Users/pma/Sites/soundbar-website/js"
 	],
 	"file_history":
 	[
@@ -431,6 +455,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"gr",
 			"image",
 			"2014",
 			"slack",
@@ -557,8 +582,7 @@
 			"role",
 			"submit",
 			"onSubmitClicked",
-			"enter",
-			"server"
+			"enter"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -584,7 +608,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -593,15 +617,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2336,
+						"buffer_size": 12604,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1034,
-								1034
+								1007,
+								6370
 							]
 						],
 						"settings":
@@ -673,27 +697,58 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 181.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "css/main.css",
+					"file": "js/main.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5647,
+						"buffer_size": 67,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								172,
-								172
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1807,
+								1803
 							]
 						],
 						"settings":
@@ -706,40 +761,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/normalize.css",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 7708,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								797,
-								799
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LESS/LESS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1613.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -791,7 +813,7 @@
 	"project": "soundbar-website.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 72.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1154,12 +1176,16 @@
 				"~/Sites/soundbar/Soundbar/HTML/soundbar.sublime-project"
 			],
 			[
-				"soundbar-website",
-				"~/Sites/soundbar-website/soundbar-website.sublime-project"
+				"sou",
+				"~/Sites/soundbar.sublime-workspace"
 			],
 			[
 				"sound",
 				"~/Sites/soundbar.sublime-workspace"
+			],
+			[
+				"soundbar-website",
+				"~/Sites/soundbar-website/soundbar-website.sublime-project"
 			],
 			[
 				"inde",

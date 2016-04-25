@@ -1,52 +1,62 @@
 <!doctype html>
 <html class="no-js" lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Soundbar – Just listen to Soundcloud</title>
-        <meta name="description" content="Soundbar – Just listen to SoundCloud">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Soundbar – Just listen to Soundcloud</title>
+    <meta name="description" content="Soundbar – Just listen to SoundCloud">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <!-- Place favicon.ico in the root directory -->
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <!-- Place favicon.ico in the root directory -->
 
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-    </head>
-    <body>
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 
-        <div class="pane-image">
-            <p>image</p>
-        </div>
-        <div class="pane-content">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+<body>
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div class="loading">
+        <img src="data:image/gif;base64,R0lGODlhNQAjAMQaAPz8/O/v7/b29unp6fr6+v7+/uvr6/Dw8PX19efn5/v7+/f39+7u7vj4+PPz8+3t7fHx8fT09Orq6ujo6PLy8uzs7P39/fn5+ebm5v///////wAAAAAAAAAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh/wtYTVAgRGF0YVhNUDw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDE0IDc5LjE1Njc5NywgMjAxNC8wOC8yMC0wOTo1MzowMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTQgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QTMwQUU1Njk4Q0JGMTFFNEJFQkRENDYwRDg1MzhDMDYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QTMwQUU1NkE4Q0JGMTFFNEJFQkRENDYwRDg1MzhDMDYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpBMzBBRTU2NzhDQkYxMUU0QkVCREQ0NjBEODUzOEMwNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpBMzBBRTU2ODhDQkYxMUU0QkVCREQ0NjBEODUzOEMwNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6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"/>
+    </div>
+
+    <div class="pane-image">
+        <img src="img/app-screenshot@2x.png">
+    </div>
+    <div class="pane-content">
+        <div class="pane-content-inner">
             <div class="header">
-                <h1 class="logo">Soundbar</h1>
+                <h1 class="logo">
+                    <svg class="image-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 227.76 31.97"><defs><style>.cls-1{fill:#555;}</style></defs><title>logo</title><g id="Vector"><path id="path0_fill" data-name="path0 fill" class="cls-1" d="M38.35,32.71H38.06V5.29h0.29c2.61,0,4.5,1.43,4.5,4.57v18C42.85,31.43,40.82,32.71,38.35,32.71Z" transform="translate(0 -0.74)"/></g><g id="Vector-2" data-name="Vector"><path id="path1_fill" data-name="path1 fill" class="cls-1" d="M29.34,5.29h4.79V32.71H29.34V5.29Z" transform="translate(0 -0.74)"/></g><g id="Vector-3" data-name="Vector"><path id="path2_fill" data-name="path2 fill" class="cls-1" d="M25.27,32.71l-4.79-.14V5.29h4.79V32.71Z" transform="translate(0 -0.74)"/></g><g id="Vector-4" data-name="Vector"><path id="path3_fill" data-name="path3 fill" class="cls-1" d="M0,27.86v-18C0,6.71,2,5.29,4.65,5.29H16.7V32.71H4.65C2,32.71,0,31.14,0,27.86Z" transform="translate(0 -0.74)"/></g><path id="path4_fill" data-name="path4 fill" class="cls-1" d="M71.8,23.16a6,6,0,0,1-2.3,5.1Q67.2,30,62.89,30a27.68,27.68,0,0,1-4.06-.26,16.82,16.82,0,0,1-3.53-.91V23A21.9,21.9,0,0,0,59,24.24a15.72,15.72,0,0,0,3.6.48q2.36,0,2.36-1.08a1.2,1.2,0,0,0-.67-1A27.87,27.87,0,0,0,60.46,21a9.6,9.6,0,0,1-4-2.69,6.19,6.19,0,0,1-1.15-3.84,5.31,5.31,0,0,1,2.26-4.56,10.81,10.81,0,0,1,6.4-1.63,15.72,15.72,0,0,1,3.9.46A22.48,22.48,0,0,1,71.63,10l-2,4.68a21.3,21.3,0,0,0-3.06-1.09A10,10,0,0,0,64,13.12q-1.78,0-1.78.87a1.11,1.11,0,0,0,.61.93,37.15,37.15,0,0,0,3.6,1.54,13.58,13.58,0,0,1,3.28,1.78,5.2,5.2,0,0,1,1.6,2.06A7,7,0,0,1,71.8,23.16Z" transform="translate(0 -0.74)"/><path id="path5_fill" data-name="path5 fill" class="cls-1" d="M94.38,19.06q0,5.16-2.78,8.05T83.84,30a10.09,10.09,0,0,1-7.63-3,11.07,11.07,0,0,1-2.82-8q0-5.14,2.76-8T84,8.22a11.1,11.1,0,0,1,5.47,1.32,8.92,8.92,0,0,1,3.66,3.79A12.06,12.06,0,0,1,94.38,19.06Zm-13.62,0a9.4,9.4,0,0,0,.72,4.14,2.52,2.52,0,0,0,2.43,1.41,2.43,2.43,0,0,0,2.38-1.41A9.62,9.62,0,0,0,87,19.06,9.18,9.18,0,0,0,86.29,15a2.79,2.79,0,0,0-4.81,0A8.9,8.9,0,0,0,80.76,19.06Z" transform="translate(0 -0.74)"/><path id="path6_fill" data-name="path6 fill" class="cls-1" d="M112,29.62L111.06,27h-0.43a6,6,0,0,1-2.54,2.23,8.84,8.84,0,0,1-3.8.76,7.14,7.14,0,0,1-5.4-2A7.92,7.92,0,0,1,97,22.29V8.59h7.25V20.08a6.69,6.69,0,0,0,.58,3.12,2,2,0,0,0,1.93,1.06,2.8,2.8,0,0,0,2.67-1.47,11.29,11.29,0,0,0,.8-5V8.59h7.25v21H112Z" transform="translate(0 -0.74)"/><path id="path7_fill" data-name="path7 fill" class="cls-1" d="M134.2,29.62V18.15a6.44,6.44,0,0,0-.61-3.15,2,2,0,0,0-1.93-1.08A2.81,2.81,0,0,0,129,15.38a11.11,11.11,0,0,0-.82,5v9.2h-7.25v-21h5.47l0.91,2.6h0.43A5.76,5.76,0,0,1,130.31,9a9.15,9.15,0,0,1,3.79-.74,7.13,7.13,0,0,1,5.42,2,7.88,7.88,0,0,1,1.95,5.7V29.62H134.2Z" transform="translate(0 -0.74)"/><path id="path8_fill" data-name="path8 fill" class="cls-1" d="M151.4,30a6.33,6.33,0,0,1-3.93-1.28,8.21,8.21,0,0,1-2.6-3.77,16.89,16.89,0,0,1-.91-5.81q0-5.12,2.06-8a6.57,6.57,0,0,1,5.66-2.89,6.43,6.43,0,0,1,3.08.71,6.8,6.8,0,0,1,2.43,2.37h0.15A34.86,34.86,0,0,1,157,6.37V0.74h7.31V29.62h-5.47L157.27,27H157A6.15,6.15,0,0,1,151.4,30Zm3-5.73a2.69,2.69,0,0,0,2.45-1.09,6.53,6.53,0,0,0,.78-3.38V19.21a7.29,7.29,0,0,0-.8-4,2.8,2.8,0,0,0-2.5-1.19,2.47,2.47,0,0,0-2.23,1.35,7.67,7.67,0,0,0-.78,3.82,7.11,7.11,0,0,0,.8,3.73A2.54,2.54,0,0,0,154.37,24.25Z" transform="translate(0 -0.74)"/><path id="path9_fill" data-name="path9 fill" class="cls-1" d="M180.63,8.22a6.29,6.29,0,0,1,5.44,2.88q2,2.88,2,8t-2,8A6.5,6.5,0,0,1,180.41,30a7.58,7.58,0,0,1-2.08-.26,6.07,6.07,0,0,1-1.63-.69A8.69,8.69,0,0,1,175,27.56H174.6l-1.15,2.06h-5.66V0.74H175V7.28q0,1.17-.26,4H175a6.65,6.65,0,0,1,2.43-2.36A6.73,6.73,0,0,1,180.63,8.22ZM178,13.92A2.48,2.48,0,0,0,175.75,15,6.11,6.11,0,0,0,175,18.3v1a7.32,7.32,0,0,0,.71,3.71,2.52,2.52,0,0,0,2.3,1.11,2.14,2.14,0,0,0,2-1.3A8.59,8.59,0,0,0,180.7,19Q180.7,13.92,178,13.92Z" transform="translate(0 -0.74)"/><path id="path10_fill" data-name="path10 fill" class="cls-1" d="M204.42,29.62L203,26.83h-0.15a8.26,8.26,0,0,1-3,2.49A9.86,9.86,0,0,1,196,30a6.17,6.17,0,0,1-4.68-1.78,7,7,0,0,1-1.71-5,5.67,5.67,0,0,1,2.34-5,12.72,12.72,0,0,1,6.77-1.86l3.51-.11v-0.3a2.28,2.28,0,0,0-2.56-2.6,15.31,15.31,0,0,0-5.84,1.56l-2.1-4.79A20.17,20.17,0,0,1,201,8.22a9,9,0,0,1,6.25,2,7.15,7.15,0,0,1,2.23,5.6V29.62h-5ZM199,24.87a3.24,3.24,0,0,0,2.25-.83,2.76,2.76,0,0,0,.95-2.17V20.23l-1.67.07q-3.58.13-3.58,2.63A1.77,1.77,0,0,0,199,24.87Z" transform="translate(0 -0.74)"/><path id="path11_fill" data-name="path11 fill" class="cls-1" d="M225.55,8.22a10.5,10.5,0,0,1,1.8.15l0.41,0.07-0.65,6.85a10.66,10.66,0,0,0-2.47-.22,4.68,4.68,0,0,0-3.45,1.09,4.22,4.22,0,0,0-1.08,3.12V29.62h-7.26v-21h5.4L219.39,12h0.35a7.21,7.21,0,0,1,2.52-2.69A6.07,6.07,0,0,1,225.55,8.22Z" transform="translate(0 -0.74)"/></svg>
+                </h1>
                 <h2>Just listen to SoundCloud. That's it</h2>
-            <div>
-            <div class="content">
-                <h3>Focused on listening</h3>
-                <p>Soundbar plays your Soundcloud music without needing your attention, hidden in menu bar.</p>
-                <h3>Customizable shortcuts</h3>
-                <p>Use shortcuts to skip a song or to save it for later. Fully customizable.</p>
-                <h3>Coming soonish</h3>
-                <p>Woud you like to get a beta? Let us know at <a href="mailto:iwantit@getsoundbar.com">iwantit@getsoundbar.com</a></p>
-            </div>    
-            <div class="footer">
-            <p>Made with love and resentment by Pavel Macek and Don Goodman Wilson</p>
-            <p>Soundbar is using SounCloud API to play music. No joke. SoundCloud is great!
-            </p>
             </div>
+        <div class="content">
+            <h3>Focused on listening</h3>
+            <p>Soundbar plays your Soundcloud music without being needy all the time, hidden in your menu bar.</p>
+            <h3>Customizable shortcuts</h3>
+            <p>Use shortcuts to skip a song or to save it for later. Fully customizable.</p>
+            <h3>Coming soonish</h3>
+            <p>Would you like to get a beta? Let us know at <a href="mailto:iwantit@getsoundbar.com">iwantit@getsoundbar.com</a></p>
+        </div>  
+        <hr>  
+        <div class="footer">
+        <p>Made with love and resentment by Pavel Macek and Don Goodman Wilson</p>
+        <p>Soundbar is using <a href="" title="SoundCloud API"><strong>SounCloud API</strong></a> to play music. No joke. SoundCloud is great!
+        </p>
         </div>
-        
+    </div>
+    </path>
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
-        
-    </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+    
+</body>
 </html>
