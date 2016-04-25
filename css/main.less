@@ -66,19 +66,35 @@ a {
     left: 0;
     width: 50%;
     height: 100%;
-    text-align: center;
-    .gradient (left, @green, @blue);
-    img {   
-        margin-top: 5rem;
-        max-width: 350px;
-        width: auto;
+    text-align: center;    
+    .gradient (left, @green, @blue);   
+    @media (max-width: 767px) {
+        position: static;
+        width: 100%;
+        margin-bottom: 4rem;
     }
+}
+
+.pane-image-inner {
+    padding-top: 5rem;
+    img {   
+        width: 100%;
+        max-width: 350px;
+    }
+    @media (max-width: 767px) {
+        padding: 2rem;
+    } 
 }
 
 .pane-content {
     width: 50%;
     margin-left: 50%;
     max-width: 40rem;
+    @media (max-width: 767px) {
+        width: 100%;
+        margin: 0;
+        max-width: 100%;
+    }
 }
 
 .pane-content-inner {

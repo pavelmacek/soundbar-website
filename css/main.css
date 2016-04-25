@@ -58,15 +58,36 @@ a:hover {
   background-image: -ms-linear-gradient(left, #a3e695, #6ac3e8);
   background-image: linear-gradient(left, #a3e695, #6ac3e8);
 }
-.pane-image img {
-  margin-top: 5rem;
+@media (max-width: 767px) {
+  .pane-image {
+    position: static;
+    width: 100%;
+    margin-bottom: 4rem;
+  }
+}
+.pane-image-inner {
+  padding-top: 5rem;
+}
+.pane-image-inner img {
+  width: 100%;
   max-width: 350px;
-  width: auto;
+}
+@media (max-width: 767px) {
+  .pane-image-inner {
+    padding: 2rem;
+  }
 }
 .pane-content {
   width: 50%;
   margin-left: 50%;
   max-width: 40rem;
+}
+@media (max-width: 767px) {
+  .pane-content {
+    width: 100%;
+    margin: 0;
+    max-width: 100%;
+  }
 }
 .pane-content-inner {
   padding: 3rem 4.5rem;

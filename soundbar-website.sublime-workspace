@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"pane",
+				"pane-image"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
 				"mar",
 				"margin"
 			],
@@ -14,10 +26,6 @@
 			[
 				"border-co",
 				"border-color"
-			],
-			[
-				"padding",
-				"padding-bottom"
 			],
 			[
 				"border",
@@ -151,18 +159,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 12604,
+				"buffer_size": 12742,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "$(window).load(function() {\n  $(\"body\").removeClass(\"preload\");\n});",
 			"file": "js/main.js",
-			"file_size": 0,
-			"file_write_time": 130934171160000000,
 			"settings":
 			{
-				"buffer_size": 67,
+				"buffer_size": 94,
 				"line_ending": "Unix"
 			}
 		},
@@ -170,7 +175,7 @@
 			"file": "css/main.less",
 			"settings":
 			{
-				"buffer_size": 6412,
+				"buffer_size": 6762,
 				"line_ending": "Unix"
 			}
 		}
@@ -617,15 +622,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12604,
+						"buffer_size": 12742,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1007,
-								6370
+								345,
+								345
 							]
 						],
 						"settings":
@@ -709,15 +714,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 67,
+						"buffer_size": 94,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								67,
-								67
+								88,
+								88
 							]
 						],
 						"settings":
@@ -740,15 +745,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6412,
+						"buffer_size": 6762,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1807,
-								1803
+								905,
+								900
 							]
 						],
 						"settings":
@@ -761,7 +766,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1613.0,
+						"translation.y": 952.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
